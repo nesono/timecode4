@@ -10,7 +10,7 @@ HEADERS += mainwindow.h \
     ctimecodeitemgroup.h
 FORMS += mainwindow.ui
 RESOURCES +=
-OTHER_FILES += timecode.icns
+OTHER_FILES +=
 icons.files = application.icns
 icons.path = Contents/Resources
 QMAKE_BUNDLE_DATA += icons
